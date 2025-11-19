@@ -1,6 +1,4 @@
-# Introducing Myself
-
-## 👋 Hello, I'm Patrick
+## 👋 Hello, I'm Gab
 
 **Data Analyst specializing in e-commerce analytics, SQL data modelling, and end-to-end reporting pipelines.**
 
