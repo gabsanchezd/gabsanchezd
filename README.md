@@ -126,8 +126,5 @@ It should help stakeholders understand:
 
 [**LinkedIn →**](https://www.linkedin.com/in/patrick-gabriel-sanchez-22b115348/)
 
-[**GitHub →**](https://github.com/gabsanchezd)
+[**Upwork →**] (https://www.upwork.com/freelancers/patrickgabriels/)
 
-**Upwork:** Add your Upwork profile link here
-
-**Portfolio Website:** Coming soon
