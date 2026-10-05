@@ -46,16 +46,16 @@ Healthcare revenue-cycle reporting system that transforms claims and payment dat
 
 ---
 
-### 03 — Revenue Data Quality & Anomaly Detection
+### 03 — Healthcare Revenue Operations Analytics
 
-**Repository / case study coming soon**
+[**Healthcare RevOps Analytics →**](https://github.com/gabsanchezd/Healthcare-RevOps-Analytics)
 
-A data-quality monitoring framework designed to compare reporting snapshots and identify **missing records, unexpected financial changes, stale cases, invalid status transitions, and other operational anomalies**.
+Healthcare revenue operations analytics project focused on transforming claims, payment, payer, and operational data into **revenue-cycle insights, performance monitoring, and decision-support reporting**.
 
-The system includes severity classification, review workflows, audit tracking, and repeatable QC rules.
+The project demonstrates how healthcare operational data can be structured and analyzed to surface revenue trends, collection performance, outstanding balances, payer behavior, and opportunities for process improvement.
 
 **Key Areas:**  
-`Data Quality` · `Anomaly Detection` · `Power Query` · `Excel` · `Reconciliation` · `Workflow Automation`
+`Healthcare RevOps` · `Revenue Cycle Analytics` · `Claims Analytics` · `Collections` · `Payer Analysis` · `Power BI` · `SQL`
 
 ---
 
