@@ -124,7 +124,12 @@ It should help stakeholders understand:
 
 ## 📫 Connect With Me
 
+## 📫 Connect With Me
+
 [**LinkedIn →**](https://www.linkedin.com/in/patrick-gabriel-sanchez-22b115348/)
 
-[**Upwork →**] (https://www.upwork.com/freelancers/patrickgabriels/)
+[**GitHub →**](https://github.com/gabsanchezd)
+
+[**Hire Me on Upwork →**](https://www.upwork.com/freelancers/patrickgabriels)
+
 
